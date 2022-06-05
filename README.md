@@ -6,7 +6,7 @@ various clubs. Throughout one season, the poorly performing teams have to face r
 and in some leagues, the three teams with least points are relegated while some others survive. In 
 this project work, using the K Nearest Neighbor classification approach, teams will be classified 
 as Relegation Survivor or Relegated based on different criteria in regards to the information from 
-previous seasons.<p/>
+previous seasons.</p>
 
 <hr/>
 <h3>• Database Schema:</ h3>
