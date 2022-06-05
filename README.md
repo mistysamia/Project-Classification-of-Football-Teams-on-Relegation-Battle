@@ -1,4 +1,4 @@
-<h1>It is a project using the Oracle PL/SQL . </h1>
+<h1>It is a project using Oracle PL/SQL . </h1>
 
 <h3>• Task Approach:</ h3>
 <h5>There are different football leagues where each season different teams participate representing 
